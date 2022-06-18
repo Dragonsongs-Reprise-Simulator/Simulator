@@ -31,3 +31,5 @@ Here is a list of phases that currently the Simulator can help the player to pra
 Arena Image is Downloaded from [Here](https://github.com/kotarou3/ffxiv-arena-images).
 
 The Simulator is built by [Unity Engine](https://unity.com/).
+
+## Contact [SiegAndy#2157](https://discordapp.com/users/483897747137626116) or open an issue if you have any questions.
