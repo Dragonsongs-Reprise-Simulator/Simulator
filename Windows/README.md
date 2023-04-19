@@ -10,7 +10,7 @@
 
 This is the simulator that used for practicing certain phases in the Final Fantasy XIV Dragonsong's Reprise Ultimate. It will try to simulate Boss Timeline, Boss Actions, AOE damages, and actors' behaviors (aside from the player). It is expected to help the player to be familiar with mechnism before they can reach the phase in the real game.
 
-## Keybinds
+## Keybind & Graphic Settings
 ```
 Press ESC to pause the game
 Press R to start a new session  (Rebinding Available)
@@ -18,7 +18,7 @@ Press C to sprint               (Rebinding Available)
 Press V to surecast             (Rebinding Available)
 Hold ALT or Mouse RightClick to show cursor in the simulator
 ```
-![image](https://user-images.githubusercontent.com/86433624/174454742-2fcd0998-3db4-4e4c-8bf3-77d5740d6188.png)
+![Settings](https://user-images.githubusercontent.com/86433624/232982307-68adf70c-1993-4690-951f-2fa390fc4d4f.png)
 
 ## Phases
 
@@ -27,7 +27,7 @@ Here is a list of phases that currently the Simulator can help the player to pra
 ![image](https://user-images.githubusercontent.com/86433624/174454634-1e370167-61f4-45f3-87ef-afaa45bde31b.png)
 
 ### Nidhogg Limit Cut Phase
-![image](https://user-images.githubusercontent.com/86433624/174454578-581ea233-2523-485d-b44a-10cd98c75ba8.png)
+![NidhoggLC](https://user-images.githubusercontent.com/86433624/232983511-aad2a9f6-3993-4c5c-82ae-f982f1b37e96.png)
 
 ### Dragon-king Thorden Exaflare's Edge Phase
 ![image](https://user-images.githubusercontent.com/86433624/174454655-3e66fb96-c5f4-497e-b159-fcb8dd0890c4.png)
