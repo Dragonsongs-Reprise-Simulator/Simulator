@@ -13,9 +13,9 @@ This is the simulator that used for practicing certain phases in the Final Fanta
 ## Keybinds
 ```
 Press ESC to pause the game
-Press R to start a new session
-Press C to sprint     (Rebinding Available)
-Press V to surecast   (Rebinding Available)
+Press R to start a new session  (Rebinding Available)
+Press C to sprint               (Rebinding Available)
+Press V to surecast             (Rebinding Available)
 Hold ALT or Mouse RightClick to show cursor in the simulator
 ```
 ![image](https://user-images.githubusercontent.com/86433624/174454742-2fcd0998-3db4-4e4c-8bf3-77d5740d6188.png)
